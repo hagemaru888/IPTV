@@ -480,6 +480,10 @@ http://live.farsiland.com/nasim/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="العراق",IRIB Fars
 http://cdn1.live.irib.ir:1935/channel-live/smil:fars/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://jjtvn.ir/img/jam/header.jpg" group-title="العراق",IRIB Jame Jam
+http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="Movies",iFILM Persian 1
 https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="العراق",iFILM Persian 2
@@ -1361,12 +1365,8 @@ http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.africagroup.tv/img/logo-h.png" group-title="السودان",Africa TV 3
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://startv.co.tz/startvweb//templates/startvtemplate/images/startv.png" group-title="Tanzania",Star TV
-https://c4af3793bf76b33c.mediapackage.us-west-2.amazonaws.com/out/v1/1d3644d62aa24a7faa517fa2ee4dfb36/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tanzania.mom-rsf.org/typo3temp/_processed_/3/1/csm_14516-1508_import_739943b2bd.jpg" group-title="Tanazia",Star Entertainment
-https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com/out/v1/936a64de8b1d4b46bfcee7bd230bfd37/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.vimeocdn.com/portrait/63310_300x300" group-title="Tanazia",Tanazia Safari TV
-https://live-tanzaniasafari2020.cdnvideo.ru/tanzaniasafari2020/tanzaniasafari2020/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tbc.go.tz/wp-content/uploads/2018/04/Logo-website.jpg" group-title="Tanazia",TBC 1
+https://tbc.swahiliflix.tv:8443/live/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.hannibaltv.com.tn/static/fr/image/png/hannibaltv.png" group-title="تونس",Hannibal TV
 http://178.132.3.162:88/hannibal/video.m3u8?token=test
@@ -1391,3 +1391,5 @@ https://593fa17dec176.streamlock.net/rasdtv/rasdtv/chunklist.m3u8
 https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013574/index_150_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.znbc.co.zm/wp-content/uploads/2019/04/TV2-Logo.jpg" group-title="Zambia",ZNBC 2
 https://dcunilive135-lh.akamaihd.net/i/dclive_1@149239/index_150_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.znbc.co.zm/wp-content/uploads/2019/04/TV2-Logo.jpg" group-title="Zambia",ZNBC 4
+https://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/index_150_av-p.m3u8
