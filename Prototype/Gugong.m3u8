@@ -23,9 +23,6 @@ https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.m
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="新马",亚洲新闻台(CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="新马",xxx
-https://static.rtv.rs/uzivo/rtv1.asx
-
 #EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" group-title="新马",U频道
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
@@ -595,6 +592,8 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 #EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="体育",Матч
 https://stream8.itv.uz/1089/index.m3u
+#EXTINF:-1 tvg-id="FB1.RU" tvg-logo="https://static.epg.best/ru/MatchFutbol1.ru.png" group-title="体育",Матч! Футбол 1
+https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID="MLB.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="体育",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
@@ -626,16 +625,6 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 https://i.mjh.nz/nz/tv.trackside1.m3u8|X-Forwarded-For=202.89.4.222
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Trackside2nz.png" group-title="体育",TAB Trackside 2
 https://i.mjh.nz/nz/tv.trackside2.m3u8|X-Forwarded-For=202.89.4.222
-
-#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="体育",TNT Sports
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
-
-#EXTINF:-1 tvg-id="TYC.AR" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="体育",TyC Sports
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
-https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
 
 #EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="体育",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
