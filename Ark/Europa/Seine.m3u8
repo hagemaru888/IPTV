@@ -420,7 +420,7 @@ https://exodiver.github.io/IPTV/M3U8/M3U8/Token/C8.m3u8
 http:///cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/AB1_live/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/ARTE.fr.png" group-title="Français",Arte Français
-https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/ARTE.fr.png" group-title="Français",Arte Français
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/artelive-18512/hls/index.m3u8
 
