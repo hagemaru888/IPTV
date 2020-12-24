@@ -860,6 +860,7 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://rada-rtmp.adamant.net/hls/rada.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/Inter.ua.png" group-title="Україна",Iнтер
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.itk.ua/files/upload/logos/Logo_Ukraina.jpg" group-title="Україна",Телеканал Україна
 http://78.26.128.52:6666
 #EXTINF:-1 tvg-logo="https://www.stb.ua/wp-content/uploads/2013/12/2013_Logo_slogan_red_v03_as.png" group-title="Україна",СТБ
