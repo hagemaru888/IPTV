@@ -1386,7 +1386,7 @@ https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvrhd.tvr.ro/images/logo_main_tvrhd.png" group-title="România",TVR HD
 https://mn-nl.mncdn.com/tvr_hd_live/tvr_hd_live2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvri.tvr.ro/images/logo_main_tvri.png" group-title="România",TVR International 
-https://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/playlist.m3u8
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://cluj.tvr.ro/images/logo_main_tvrcluj.png" group-title="România",TVR Cluj	
 https://mn-nl.mncdn.com/tvr_cluj_live/tvr_cluj_live2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://craiova.tvr.ro/images/logo_main_tvrcraiova.png" group-title="România",TVR Craiova	
