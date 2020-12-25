@@ -153,8 +153,6 @@ https://e10.habrox.xyz/ingestnb4s/foxdep/d.m3u8|Referer=https://sportsbay.org/em
 
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="USA/Canada",Fox
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/3/3e/WSVN_7_Miami_logo.png" group-title="USA/Canada",Fox 7 Miami (WSVN)
-http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.fox23.com/pb/resources/images/cmg_icons/koki-logo.png" group-title="USA/Canada",FOX 23 Tulsa (KOKI)
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.wxxv25.com/wp-content/uploads/2018/01/logo-wide.png" group-title="USA/Canada",FOX 25 Gulfport (WXXVT)
@@ -197,7 +195,7 @@ https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
 #EXTINF:-1 tvg-id="ICI.CA"  tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/b2a1a9f0-c735-4c8e-99d2-febad143b04c.png" group-title="USA/Canada",Insight TV
 https://inwonder-stirr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ICI.CA"  tvg-logo="http://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/6d56dcba66d14b58451695b0871f9ac8/1.m3u8
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Acadie
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Montreal
