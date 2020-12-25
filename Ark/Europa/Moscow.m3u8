@@ -508,10 +508,6 @@ https://songtvam.ru/hd/playlist.m3u8
 http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 #EXTINF:-1 tvg-logo="http://tvradio.am/wp-content/uploads/2019/06/Logo-Nor-Hayastan-TV-200x200.jpg" group-title="Հայաստան",Ուղիղ եթեր
 http://livestream.usatv.com/hls/master-iNEWARM.m3u8
-#EXTINF:-1 tvg-logo="https://arpinet.am/templates/arpinet/images/logo.png" group-title="Հայաստան",Arpinet Nur
-http://timeshift.arpinet.am/228/index.m3u8
-#EXTINF:-1 tvg-logo="https://arpinet.am/templates/arpinet/images/logo.png" group-title="Հայաստան",Arpinet Music
-http://timeshift.arpinet.am/233/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.aztv.az/storage/settings/September2019/23bMtFJXZsjnUuC0AwiQ.png" group-title="Azərbaycan",Aztv
 http://188.93.95.34/aztv/index.m3u8
