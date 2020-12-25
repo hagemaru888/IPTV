@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101406030637.png" group-title="新马",10 Bold
+https://i.mjh.nz/au/Melbourne/tv.101406030637.m3u8|X-Forwarded-For=52.62.247.239&Referer=""&User-Agent=xTeVe
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101406030637.png" group-title="新马",10 Bold
+https://d158f3mdhc5kf4.cloudfront.net/p1_cbr_lo_720p.m3u8|X-Forwarded-For=84.17.57.165
+
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
