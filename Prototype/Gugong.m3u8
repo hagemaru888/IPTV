@@ -1,11 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="新马",ZDF
-https://zdf-hls-01.akamaized.net/hls/live/2002460/de/med/master.m3u8|X-Forwarded-For=53.35.148.45
-#EXTINF:-1 group-title="新马",ZDFinfo
-https://zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8|X-Forwarded-For=53.35.148.45
-#EXTINF:-1 group-title="新马",Phoenix
-https://zdfhls19-i.akamaihd.net/hls/live/744752/de/5/5.m3u8|X-Forwarded-For=53.35.148.45
+#EXTINF:-1 tvg-id="France" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (OPT-3)
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8?|X-Forwarded-For=217.70.184.38
+
+#EXTINF:-1 tvg-id="France" tvg-name="Cherie 25" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25 (OPT-2)
+https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8?|X-Forwarded-For=217.70.184.38
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zdh9bTw.png" group-title="France",NRJ12 (OPT-2)
+https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forwarded-For=217.70.184.38
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
