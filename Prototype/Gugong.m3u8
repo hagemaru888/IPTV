@@ -919,7 +919,8 @@ https://tv-trt1.live.trt.com.tr/master.m3u8
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 #EXTINF:-1 tvg-id="STA.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="中东精选",Star
 https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="SHO.TR" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="中东精选",Show
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IR1.IR" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="中东精选",IRIB 1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
