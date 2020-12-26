@@ -434,8 +434,11 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" group-title="Français",Canal+ 
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/tech_canalplus_ott_mobile-655617/hls/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Cherie25.fr.png" group-title="Français",Cherie25
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8
+https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8?|X-Forwarded-For=217.70.184.38
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.chasseetpechetv.fr/images/logo.png" group-title="Français",Chasse & Peche 
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8
@@ -462,7 +465,7 @@ http://178.132.3.162:88/M6/index.m3u8?token=test
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="Français",NRJ12
-http://178.132.3.162:88/NRJ_12/video.m3u8?token=test
+https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forwarded-For=217.70.184.38
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="Français",NRJ 12
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
 
