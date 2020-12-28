@@ -1,10 +1,11 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/135_1920x1080_HTV.png" group-title="Hindustan(தமிழ்)",Star Vijay
+http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunLife.in.png" group-title="பொழுதுபோக்கு",Sun Life
 http://185.246.210.54:2200/R-EX/TAMIL_SUN_LIFE_TAMIL-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="SUN.IN" tvg-logo="https://static.epg.best/in/SunTV.in.png" group-title="பொழுதுபோக்கு",Sun TV
-https://load.airtelxstream.in/suntv/smil:common.smil/playlist.m3u8
+http://istreamtv.xyz/cdn/sunnxt/kl/nxtist.php?uid=Prasadelectric_6532140&c=SunTVHD
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="பொழுதுபோக்கு",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-podhigai%20orginal_2.png" group-title="பொழுதுபோக்கு",DD Podhigai
@@ -119,7 +120,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in.m3u8
 #EXTINF:-1 tvg-logo="http://www.rajtvnet.in/Raj_Net/raj_logos/RDP.png" group-title="பொழுதுபோக்கு",Raj Digital Plus
 https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sunnetwork.in/ChannelLogo/3ktv.jpg" group-title="பொழுதுபோக்கு",KTV Tamil
-https://load.airtelxstream.in/ktv/smil:common.smil/playlist.m3u8
+http://istreamtv.xyz/cdn/sunnxt/kl/nxtist.php?uid=Prasadelectric_6532140&c=KTVHD
 #EXTINF:-1 tvg-logo="http://www.sunnetwork.in/ChannelLogo/3ktv.jpg" group-title="பொழுதுபோக்கு",KTV Tamil Movie Classic
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="பொழுதுபோக்கு",Santhora Short Flim
@@ -149,7 +150,7 @@ https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chun
 #EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim@2x.gif" group-title="இசை",Santhora TV
 http://santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 #EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunMusic.in.png" group-title="இசை",Sun Music
-http://185.246.210.54:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=
+http://istreamtv.xyz/cdn/sunnxt/kl/nxtist.php?uid=Prasadelectric_6532140&c=SunMusicHD
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.celltel.co.nz/img/channels/tamil/isaiaruvi-tv.png" group-title="இசை",Isai Aruvi
 https://load.airtelxstream.in/isaiaruvi/smil:common.smil/playlist.m3u8
 
@@ -233,9 +234,9 @@ http://vidnetcdn.vidgyor.com:80/janamtv-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="മലയാളം",Suvarna News
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://sunnetwork.in/ChannelLogo/46surya-music.jpg" group-title="മലയാളം",Surya Music
-https://load.airtelxstream.in/suryamusic/smil:common.smil/playlist.m3u8
+http://istreamtv.xyz/cdn/sunnxt/kl/nxtist.php?uid=Prasadelectric_6532140&c=SuryaMusic
 #EXTINF:-1 tvg-logo="http://sunnetwork.in/ChannelLogo/20surya-tv.jpg" group-title="മലയാളം",Surya TV
-https://load.airtelxstream.in/suryatv/smil:common.smil/playlist.m3u8
+http://istreamtv.xyz/cdn/sunnxt/kl/nxtist.php?uid=Prasadelectric_6532140&c=SuryaTV
 #EXTINF:-1 tvg-logo="https://www.asianetmobiletv.com/channels/Flowers.png" group-title="മലയാളം",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/897672724880936964/DaWnKvjI.png" group-title="മലയാളം",GoSree Vision
