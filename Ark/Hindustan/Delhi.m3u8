@@ -87,7 +87,7 @@ http://185.246.210.54:2200/R-EX/HINDI_SONY_YAY-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="मनोरंजन",Star Bharat
 http://185.246.210.54:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="मनोरंजन",Star Plus
-http://185.246.210.54:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=
+http://khulnalive.anytv.live:8080/starplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/StarWorld.sa.png" group-title="मनोरंजन",Star World
 http://185.246.210.54:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="मनोरंजन",Star Gold
