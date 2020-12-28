@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="新马",Sun TV HD
+http://istreamtv.xyz/cdn/sunnxt/kl/nxtist.php?uid=Prasadelectric_6532140&c=SunTVHD
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
