@@ -493,9 +493,9 @@ https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
 #EXTINF:-1 tvg-ID="RAJ.IN" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="Hindustan(தமிழ்)",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/135_1920x1080_HTV.png" group-title="Hindustan(தமிழ்)",Star Vijay
-http://185.246.210.54:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="SUM.IN" tvg-logo="https://static.epg.best/in/SunMusic.in.png" group-title="Hindustan(தமிழ்)",Sun Music
-http://185.246.210.54:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=
+http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SUN.IN" tvg-logo="https://static.epg.best/in/SunTV.in.png" group-title="Hindustan(தமிழ்)",Sun TV
+http://istreamtv.xyz/cdn/sunnxt/kl/nxtist.php?uid=Prasadelectric_6532140&c=SunTVHD
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="Hindustan(தமிழ்)",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Hindustan(தமிழ்)",Vaanavil
