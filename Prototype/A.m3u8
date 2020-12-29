@@ -243,6 +243,9 @@ https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="ENTERTAINMENT",Kan 11(Israel)
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8|X-Forwarded-For=87.239.255.120
 
+#EXTINF:-1 tvg-id="1TV.KZ" tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="ENTERTAINMENT",Первый канал Евразия(Kazahastan)
+https://1tvkz-stream.daitsuna.net/1tvkz/1tv_720/index.m3u8
+
 
 #EXTINF:-1 tvg-id="EP1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="SPORTS",Premier HD1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
