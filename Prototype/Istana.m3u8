@@ -259,15 +259,15 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 #EXTINF:-1 tvg-ID="STC.AU" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png" group-title="Sukan",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
 
-#EXTINF:-1 tvg-ID="SP1.PT" tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="体育",Sport TV 1
+#EXTINF:-1 tvg-ID="SP1.PT" tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="Sukan",Sport TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8 
-#EXTINF:-1 tvg-ID="SP2.PT" tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="体育",Sport TV 2
+#EXTINF:-1 tvg-ID="SP2.PT" tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="Sukan",Sport TV 2
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8 
-#EXTINF:-1 tvg-ID="SP3.PT" tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="体育",Sport TV 3
+#EXTINF:-1 tvg-ID="SP3.PT" tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="Sukan",Sport TV 3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8 
-#EXTINF:-1 tvg-ID="SP4.PT" tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="体育",Sport TV 4
+#EXTINF:-1 tvg-ID="SP4.PT" tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="Sukan",Sport TV 4
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8 
-#EXTINF:-1 tvg-ID="SP5.PT" tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="体育",Sport TV 5
+#EXTINF:-1 tvg-ID="SP5.PT" tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="Sukan",Sport TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Trackside1nz.png" group-title="Sukan",TAB Trackside 1
@@ -506,7 +506,7 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 #EXTINF:-1 tvg-ID="THA.IN" tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" group-title="Hindustan(தமிழ்)",Thanthi
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-ID="MSE.IN" tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2020/06/Malaimurasu-Seithigal-Logo-Copy-2.png" group-title="Hindustan(தமிழ்)",,MalaiMurasu Seithigal
+#EXTINF:-1 tvg-ID="MSE.IN" tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2020/06/Malaimurasu-Seithigal-Logo-Copy-2.png" group-title="Hindustan(தமிழ்)",MalaiMurasu Seithigal
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/malaimurasu/49992ade0624eda468a31e137996d044.sdp1/chunks.m3u8
 #EXTINF:-1 tvg-ID="SV2.IN" tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="Hindustan(தமிழ்)",SVBC 2
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/chunks.m3u8
