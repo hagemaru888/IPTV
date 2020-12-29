@@ -202,3 +202,46 @@ http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-id="SJM.IN" tvg-chno="070" tvg-logo="https://static.epg.best/in/JalshaMovies.in.png" group-title="MOVIES",Star Jalsha Movies
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
+
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste(Germany)
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste 2
+https://mcdn.daserste.de/daserste/int/master.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste 3
+http://51.52.156.23:8888/http/009
+
+#EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="ENTERTAINMENT",TF1(France)
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="ENTERTAINMENT",France 2
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="ENTERTAINMENT",Canale 5(Italy)
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+#EXTINF:-1 tvg-id="RA3.IT" tvg-logo="https://www.raisport.rai.it/dl/img/2019/10/1600x900_1571057814544.Rai_3_HD_Logo_RGB.jpg" group-title="ENTERTAINMENT",Rai 3(Italy)
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ENTERTAINMENT",LA 1(Spain)
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
+
+#EXTINF:-1 tvg-id="RTPInternacional.br" tvg-logo="https://i.imgur.com/3MMvLgr.png" group-title="ENTERTAINMENT",RTPi(Portugal)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?pxt_rtp
+
+#EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="ENTERTAINMENT",Первый(Russia)
+http://rt-sib-chita-htlive.cdn.ngenix.net:80/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="ENTERTAINMENT",Россия-1(Russia)
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+
+#EXTINF:-1 tvg-id="AZ1.MX" tvg-id="" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="ENTERTAINMENT",Azteca Uno(Mexico)
+https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8|X-Forwarded-For=194.41.112.22
+
+#EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="ENTERTAINMENT",Globo(Brazil)
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="ENTERTAINMENT",MBC 1(Saudi Arabia)
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="ENTERTAINMENT",Abu Dhabi Al Oula(UAE)
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="ENTERTAINMENT",Kanal D(Turkey)
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="ENTERTAINMENT",Kan 11(Israel)
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8|X-Forwarded-For=87.239.255.120
