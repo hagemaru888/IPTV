@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-chno="001" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="ENTERTAINMENT",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
@@ -163,9 +164,9 @@ http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist_w272324549_b6
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="VT6.VN" tvg-chno="058" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="ENTERTAINMENT",VTV 6
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="059"  tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="ENTERTAINMENT",MRTV-4
+#EXTINF:-1 tvg-id="" tvg-chno="059" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="ENTERTAINMENT",MRTV-4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="060"  tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="ENTERTAINMENT",Mahar TV
+#EXTINF:-1 tvg-id="" tvg-chno="060" tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="ENTERTAINMENT",Mahar TV
 https://live.mahar.tv/channel/mahar-web.smil/mahar-web.m3u8
 
 #EXTINF:-1 tvg-id="COL.IN" tvg-chno="061" tvg-logo="https://static.epg.best/in/Colors.in.png" group-title="ENTERTAINMENT",Colors
