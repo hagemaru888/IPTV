@@ -224,9 +224,11 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 
 #EXTINF:-1 tvg-id="RTPInternacional.br" tvg-logo="https://i.imgur.com/3MMvLgr.png" group-title="ENTERTAINMENT",RTPi(Portugal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 5.1)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?pxt_rtp
 
 #EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="ENTERTAINMENT",Первый(Russia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 5.1)
 http://rt-sib-chita-htlive.cdn.ngenix.net:80/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="ENTERTAINMENT",Россия-1(Russia)
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
@@ -241,7 +243,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="ENTERTAINMENT",Abu Dhabi Al Oula(UAE)
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="ENTERTAINMENT",Kanal D(Turkey)
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:-1 tvg-id="SHO.TR" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="ENTERTAINMENT",Show(Turkey)
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="ENTERTAINMENT",Kan 11(Israel)
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8|X-Forwarded-For=87.239.255.120
