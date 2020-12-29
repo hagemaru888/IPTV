@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 catchup="append" catchup-source="?start=${start}" group-title="ENTERTAINMENT",Ch2
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-chno="001" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="ENTERTAINMENT",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -29,7 +31,7 @@ https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&
 https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
 
-#EXTINF:-1 tvg-id="FCT.HK" tvg-chno="007" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="ENTERTAINMENT",翡翠台(香港)                  
+#EXTINF:-1 tvg-id="FCT.HK" tvg-chno="007" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="DRAMA",翡翠台(香港)                  
 http://61.238.6.49:8000/bysid/1
 
 #EXTINF:-1 tvg-id="KAI.HK" tvg-chno="008" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="ENTERTAINMENT",香港开電視
@@ -59,22 +61,22 @@ http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-id="CT4.CN" tvg-chno="018" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="ENTERTAINMENT",CCTV-4 中文国际
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225590/index.m3u8
-#EXTINF:-1 tvg-id="CT5.CN" tvg-chno="019" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="ENTERTAINMENT",CCTV-5 体育
+#EXTINF:-1 tvg-id="CT5.CN" tvg-chno="019" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="SPORTS",CCTV-5 体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="C5P.CN" tvg-chno="020" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="ENTERTAINMENT",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="C5P.CN" tvg-chno="020" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="SPORTS",CCTV-5+ 体育赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-id="CT8.CN" tvg-chno="021" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="ENTERTAINMENT",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="CT8.CN" tvg-chno="021" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="DRAMA",CCTV-8 电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
 
-#EXTINF:-1 tvg-id="MSW.TW" tvg-chno="022" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="ENTERTAINMENT",民視
+#EXTINF:-1 tvg-id="MSW.TW" tvg-chno="022" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="DRAMA",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="TST.TW" tvg-chno="023" tvg-logo="https://www.ttv.com.tw/group/15/images/TTV_HD_LOGO_36.png" group-title="ENTERTAINMENT",台視
+#EXTINF:-1 tvg-id="TST.TW" tvg-chno="023" tvg-logo="https://www.ttv.com.tw/group/15/images/TTV_HD_LOGO_36.png" group-title="DRAMA",台視
 rtmp://59.124.75.156/sat/tv071
 #EXTINF:-1 tvg-id="TBX.TW" tvg-chno="024" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="NEWS",TVBS新聞
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="TBL.TW" tvg-chno="025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="ENTERTAINMENT",TVBS歡樂
+#EXTINF:-1 tvg-id="TBL.TW" tvg-chno="025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="DRAMA",TVBS歡樂
 rtmp://59.124.75.156/sat/tv421
-#EXTINF:-1 tvg-id="ZTX.TW" tvg-chno="026" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="ENTERTAINMENT",中天新聞
+#EXTINF:-1 tvg-id="ZTX.TW" tvg-chno="026" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="NEWS",中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="TYP.Asia" tvg-chno="027" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="MOVIES",天映频道
@@ -97,15 +99,15 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
-#EXTINF:-1 tvg-ID="MBC.KR" tvg-chno="031" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="ENTERTAINMENT",MBC
+#EXTINF:-1 tvg-ID="MBC.KR" tvg-chno="031" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="DRAMA",MBC
 https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-ID="SBS.KR" tvg-chno="032" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="ENTERTAINMENT",SBS
+#EXTINF:-1 tvg-ID="SBS.KR" tvg-chno="032" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="DRAMA",SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 
-#EXTINF:-1 tvg-ID="KSW.KR" tvg-chno="033" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="ENTERTAINMENT",KBS World
+#EXTINF:-1 tvg-ID="KSW.KR" tvg-chno="033" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="DRAMA",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="tvN.KR" tvg-chno="034" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="ENTERTAINMENT",tVN
+#EXTINF:-1 tvg-id="tvN.KR" tvg-chno="034" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="DRAMA",tVN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
