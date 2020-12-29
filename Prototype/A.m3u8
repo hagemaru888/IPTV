@@ -246,6 +246,12 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunkl
 #EXTINF:-1 tvg-id="1TV.KZ" tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="ENTERTAINMENT",Первый канал Евразия(Kazahastan)
 https://1tvkz-stream.daitsuna.net/1tvkz/1tv_720/index.m3u8
 
+#EXTINF:-1 tvg-id="NTI.NG" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/entertainment/thumbs/visiontvuk-entertainment-ntai-hsslive-25f-4x3-thumb-large.jpg.png" group-title="ENTERTAINMENT",NTAi(Nigeria)
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="NBS.UG" tvg-logo="https://nbs.ug/wp-content/uploads/2019/08/NBS-TV-Logo-1.png" group-title="ENTERTAINMENT",NBS
+https://readymedia.moderntv.cloud:8092/distribute/readymedia/NBSTV_stream_qb/5-20-hls/live.m3u8
+#EXTINF:-1 tvg-id="TV1.MZ" tvg-logo="https://d2q0xv3544jvkb.cloudfront.net/images/tvm-logotipo.jpg" group-title="ENTERTAINMENT",Televisão de Moçambique
+http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
 
 #EXTINF:-1 tvg-id="EP1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="SPORTS",Premier HD1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
