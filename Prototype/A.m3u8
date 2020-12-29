@@ -203,14 +203,13 @@ http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-id="SJM.IN" tvg-chno="070" tvg-logo="https://static.epg.best/in/JalshaMovies.in.png" group-title="MOVIES",Star Jalsha Movies
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 
-#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
-http://51.52.156.23:8888/http/009
-
 #EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="ENTERTAINMENT",TF1(France)
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="ENTERTAINMENT",France 2
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
+http://51.52.156.23:8888/http/009
 #EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="ENTERTAINMENT",Canale 5(Italy)
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF:-1 tvg-id="RA3.IT" tvg-logo="https://www.raisport.rai.it/dl/img/2019/10/1600x900_1571057814544.Rai_3_HD_Logo_RGB.jpg" group-title="ENTERTAINMENT",Rai 3(Italy)
@@ -219,9 +218,9 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ENTERTAINMENT",LA 1(Spain)
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 
-#EXTINF:-1 tvg-id="RTPInternacional.br" tvg-logo="https://i.imgur.com/3MMvLgr.png" group-title="ENTERTAINMENT",RTPi(Portugal)
+#EXTINF:-1 tvg-id="RT1.PT" tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="ENTERTAINMENT",RTP 1(Portugal)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 5.1)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?pxt_rtp
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 
 #EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="ENTERTAINMENT",Первый(Russia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 5.1)
