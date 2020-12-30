@@ -1307,6 +1307,8 @@ https://player-api.new.livestream.com/accounts/23202872/events/7200883/broadcast
 http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.loveworldplus.tv/wp-content/uploads/2016/09/logo_small1.png" group-title="Naija",Love World Plus TV
 http://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_628.m3u8
+#EXTINF:-1 tvg-id="NTI.NG" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/entertainment/thumbs/visiontvuk-entertainment-ntai-hsslive-25f-4x3-thumb-large.jpg.png" group-title="Naija",NTAi(Nigeria)
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hsslive-25f-4x3-SD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Rwanda",Rwanda TV
 http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
