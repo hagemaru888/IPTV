@@ -1,8 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit / 537.36 (KHTML, like Gecko) Chrome / 81.0.4044.138 Safari / 537.36 OPR / 68.0
-https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8|X-Forwarded-For=91.197.29.49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+http://13.live.cdnz.cl/13hddesktop/13hd.m3u8|X-Forwarded-For=199.232.194.137
+
+#EXTINF:-1 tvg-id="" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+http://13.live.cdnz.cl/13hddesktop/13hd.m3u8|X-Forwarded-For=200.14.67.65
+
+#EXTINF:-1 tvg-id="" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+http://13.live.cdnz.cl/13hddesktop/13hd.m3u8|X-Forwarded-For=200.14.67.65
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
