@@ -233,6 +233,9 @@ https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8|
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="ENTERTAINMENT",Globo(Brazil)
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="REC.BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" group-title="ENTERTAINMENT",Record TV
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="ENTERTAINMENT",MBC 1(Saudi Arabia)
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="ENTERTAINMENT",Abu Dhabi Al Oula(UAE)
