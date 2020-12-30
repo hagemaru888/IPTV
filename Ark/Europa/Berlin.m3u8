@@ -477,7 +477,8 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/NRJHits.fr.png" group-title="Français",NRJ Hits
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/NRJHits.fr.png" group-title="Français",NRJ Hits
+https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/PIWI.fr.png" group-title="Français",Piwi
 http://178.132.3.162:88/Piwi/index.m3u8?token=test
@@ -828,6 +829,8 @@ https://vermmd.mmdlive.lldns.net/vermmd/eaf457c2f751497ea510298cb1685b8f/manifes
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
 http://51.52.156.23:8888/http/009
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/profile1/1.m3u8|X-Forwarded-For=91.197.29.78
 
 #EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",One
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
@@ -840,6 +843,7 @@ http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8|X-Forwarded-For=91
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="3SA.DE" tvg-logo="http://static.epg.best/at/3sat.at.png" group-title="Deutschland",3 Sat
 https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8|X-Forwarded-For=91.197.29.78
+
 #EXTINF:-1 tvg-id="BRF.DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BR_Fernsehen_2016.svg/1200px-BR_Fernsehen_2016.svg.png" group-title="Deutschland",BR Fernsehen Süd
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle 
