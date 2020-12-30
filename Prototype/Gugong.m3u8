@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit / 537.36 (KHTML, like Gecko) Chrome / 81.0.4044.138 Safari / 537.36 OPR / 68.0
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8|X-Forwarded-For=91.197.29.49
+https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8|X-Forwarded-For=91.197.29.49
 
 #EXTINF:-1 tvg-id="" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit / 537.36 (KHTML, like Gecko) Chrome / 81.0.4044.138 Safari / 537.36 OPR / 68.0
@@ -14,7 +14,7 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8|X-Forw
 
 #EXTINF:-1 tvg-id="" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit / 537.36 (KHTML, like Gecko) Chrome / 81.0.4044.138 Safari / 537.36 OPR / 68.0
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8|X-Forwarded-For=91.197.29.49
+https://zdf-hls-02.akamaized.net/hls/live/2002461/de/veryhigh/master.m3u8|X-Forwarded-For=91.197.29.49
 
 
 
