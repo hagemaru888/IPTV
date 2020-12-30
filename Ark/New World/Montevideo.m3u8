@@ -206,6 +206,8 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Português/Brasil",Globo Rj
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="REC.BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" group-title="Português/Brasil",Record TV
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="Português/Brasil",SBT
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
