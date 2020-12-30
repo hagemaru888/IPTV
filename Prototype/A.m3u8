@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singpura",Channel 6
-https://zee.avipatilpro.repl.co/?c=0-9-zeecinemahd
-
-
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-chno="001" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="ENTERTAINMENT",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
@@ -210,6 +206,8 @@ https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/profile1/1.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste 2
 http://51.52.156.23:8888/http/009
 #EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="ENTERTAINMENT",Canale 5(Italy)
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
