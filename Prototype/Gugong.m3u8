@@ -2,7 +2,21 @@
 
 #EXTINF:-1 tvg-id="" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 5.1)
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8|X-Forwarded-For=91.197.29.78
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8|X-Forwarded-For=46.243.122.50
+
+#EXTINF:-1 tvg-id="" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 5.1)
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8|X-Forwarded-For=46.243.122.50
+
+#EXTINF:-1 tvg-id="" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 5.1)
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8|X-Forwarded-For=46.243.122.50
+
+#EXTINF:-1 tvg-id="" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 5.1)
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8|X-Forwarded-For=46.243.122.50
+
+
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
