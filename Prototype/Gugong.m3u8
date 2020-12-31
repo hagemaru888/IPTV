@@ -765,7 +765,7 @@ http://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
 http://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
 #EXTINF:-1 tvg-ID="STW.US" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="美洲精选",STARZ(West)
 https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
-#EXTINF:-1 tvg-ID="STE.US" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="美洲精选",STARZ(East)
+#EXTINF:-1 tvg-ID="STE.US" tvg-logo="https://static.epg.best/us/StarzEncore.us.png" group-title="美洲精选",STARZ Encore
 https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 #EXTINF:-1 tvg-id="KLA.US" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/be/KTLA5.png" group-title="美洲精选",KTLA 5
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
