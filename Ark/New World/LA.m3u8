@@ -318,7 +318,7 @@ https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="USA/Canada",WHDH-TV
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1200px-WGN_9_logo.svg.png" group-title="USA/Canada",WGN-TV
-https://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+https://dcs-live.apis.anvato.net/server/play/8AkZMW1F8omdfnE0/rendition.m3u8?track=video-2&anvsid=i177471504-n03c6890d-6811-484d-ae1f-0128983c8d75&ts=1609385950&anvtrid=wa6645f7cc0678093056c3bdc97ba689
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/WMCN44.png" group-title="USA/Canada",WMCN 44
 https://v-pi.mybtv.net/event/44.1/1280x720?start_time=0&end_time=2026&env=prd&uid=29375
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="USA/Canada",WSVI-TV (Virgin Islands)
