@@ -717,7 +717,7 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="美洲精选",CBC
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8|X-Forwarded-For=24.37.42.20
-#EXTINF:-1 tvg-ID="CSP.US" tvg-logo="https://static.epg.best/us/CBSSportsNetwork.us.png" group-title="美洲精选",CBS Sports HQ
+#EXTINF:-1 tvg-ID="CBS.US" tvg-logo="https://static.epg.best/us/CBSSportsNetwork.us.png" group-title="美洲精选",CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ChargeTV.us.png" group-title="美洲精选", Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
