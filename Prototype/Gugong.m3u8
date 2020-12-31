@@ -727,6 +727,26 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-ID="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="美洲精选",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-ID="EP1.US" tvg-logo="https://static.epg.best/us/EPIX.us.png" group-title="美洲精选",Epix(East)
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+#EXTINF:-1 tvg-ID="EP2.US" tvg-logo="https://static.epg.best/us/EPIX2.us.png" group-title="美洲精选",Epix 2 East)
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+#EXTINF:-1 tvg-ID="EP2.US" tvg-logo="https://static.epg.best/us/Cinemax.us.png" group-title="美洲精选",Cinemax USA(East)
+http://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+#EXTINF:-1 tvg-ID="EP2.US" tvg-logo="https://static.epg.best/us/Cinemax.us.png" group-title="美洲精选",Cinemax USA(West)
+http://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+#EXTINF:-1 tvg-ID="HBE.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="美洲精选",HBO USA(East)
+http://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF:-1 tvg-ID="HBW.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="美洲精选",HBO USA(West)
+http://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF:-1 tvg-ID="SHE.US" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="美洲精选",Showtime USA(East)
+http://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
+#EXTINF:-1 tvg-ID="SHW.US" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="美洲精选",Showtime USA(West)
+http://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
+#EXTINF:-1 tvg-ID="STW.US" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="美洲精选",STARZ(West)
+https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+#EXTINF:-1 tvg-ID="STE.US" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="美洲精选",STARZ(East)
+https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 #EXTINF:-1 tvg-ID="GSN.CA" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png" group-title="美洲精选",Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="美洲精选",Globo
