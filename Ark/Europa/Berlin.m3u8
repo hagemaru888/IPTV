@@ -1010,18 +1010,20 @@ https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/p
 #EXTINF:-1 tvg-id="" tvg-logo="https://bucharestsummit.com/uploads/logo_visit-x-bronz.jpg" group-title="Deutschland",VISIT-X.tv
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/m1.hu.png" group-title="MagyarorszĂˇg",M1
-http://c401-node61-cdn.connectmedia.hu/1100/049c6c511523c514339cbb4c16854e56/5e808f23/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/m2.hu.png" group-title="MagyarorszĂˇg",M2
-http://c402-node62-cdn.connectmedia.hu/1101/140a44e2367bcbd9377f75fea0140f5b/5e8196fa/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/m4.hu.png" group-title="MagyarorszĂˇg",M4
-http://c402-node61-cdn.connectmedia.hu/1104/30e8eedf16593d631353f20b2fe78732/5e81970f/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/m5.hu.png" group-title="MagyarorszĂˇg",M5
-http://c202-node61-cdn.connectmedia.hu/1105/d2d9597407cd008bfd311acf2d3855cb/5e819731/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/hu/Duna.hu.png" group-title="MagyarorszĂˇg",Duna
-http://c201-node61-cdn.connectmedia.hu/1102/b259c203764b9c453da6977076cdb1ab/5e819746/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/hu/DunaWorld.hu.png" group-title="MagyarorszĂˇg",Duna World
-https://c401-node61-cdn.connectmedia.hu/1103/12a5e8caa8d54aa4159b71d46a1955c7/5e819779/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/FilmPlus.hu.png" group-title="MagyarorszĂˇg",Film Plus
+https://stream.y5.hu/stream/stream_filmp/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sorozat_plusz_2018.png/250px-Sorozat_plusz_2018.png" group-title="MagyarorszĂˇg",Sorozat
+https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/RTLplus.hu.png" group-title="MagyarorszĂˇg",RTL Plus
+https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/RTL2.hu.png" group-title="MagyarorszĂˇg",RTL 2
+https://stream.y5.hu/stream/stream_rtl2/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/RTLKlub.hu.png" group-title="MagyarorszĂˇg",RTL Klub
+https://stream.y5.hu/stream/stream_rtlklub/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/RTLGold.hu.png" group-title="MagyarorszĂˇg",RTL Gold
+https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/Cool.hu.png" group-title="MagyarorszĂˇg",Cool TV
+https://stream.y5.hu/stream/stream_cool/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://1music.hu/assets/images/logo.png" group-title="MagyarorszĂˇg",1 Music
 http://1music.hu/1music.m3u8
 
@@ -1077,6 +1079,8 @@ https://cloudfront63.lexanetwork.com:1440/hlsrelay007/hls/livestream.sdp.m3u8
 https://cloudfront44.lexanetwork.com:1344/xlive001/livestream001.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://xvmedia.hu/23rfdsardw3r/uploads/2013/11/XV-TV-LOGO-300x166.jpg" group-title="MagyarorszĂˇg",XV TV
 https://cloudfront63.lexanetwork.com:1440/hlsrelay006/hls/livestream.sdp.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ruv.is/sites/all/themes/at_ruv/images/default-image-1200x750.png" group-title="Ísland",RUV
 https://ruvruverl-live-hls.secure.footprint.net/f93971c9d341476a506344e4994f741bf63faa01-1550945035/ruv/ruverl/index/stream4.m3u8
