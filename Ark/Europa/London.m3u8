@@ -126,31 +126,6 @@ https://hackey.stream/hlsrio/test.m3u8
 #EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="Sports",Матч
 http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_ROSSIA2/variant.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports1.in.png" group-title="Cricket",Star Sports 1
-http://185.246.210.54:2200/EX/starsports1hd-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="Cricket",Star Sports 2
-http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports3.in.png" group-title="Cricket",Star Sports 3
-http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Cricket",Star Sports Select 2
-http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Cricket",Star Sports Select 1
-http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Cricket",Star Sports 1 Hindi
-http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Cricket",Star Sports 2 Hindi
-http://185.246.210.54:2200/EX/starsports2hd-in/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonySIX.in.png group-title="Cricket",Sony Six
-http://185.246.210.54:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Cricket",Sony Ten 1
-http://185.246.210.54:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Cricket",Sony Ten 2
-http://185.246.210.54:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Cricket",Sony Ten 3
-http://185.246.210.54:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
-
-
 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Football",Premier HD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Football",Premier HD1
