@@ -42,12 +42,6 @@ https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="मनोरंजन",DD National 
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-madhya-pradesh.png" group-title="मनोरंजन",DD Madhya Pradesh
-http://185.246.210.54:2200/R-EX/HINDI_DD_MP-in/index.m3u8?token=
-
-#EXTINF:-1 tvg-logo="https://doordarshan.gov.in/sites/default/files/6.gif" group-title="मनोरंजन",DD Uttar Pradesh
-http://185.246.210.54:2200/R-EX/HINDI_DD_UP-in/index.m3u8?token=
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkxZRkN2aER4LUt5TzJMSlRGRVptQjZEdzF0a2szLXdYTUhDbkEyTm51dTNOd092c2VCb1VsY08tRXVia3pGSnYzR2dmU2hWaVpHMXpUWEs4c180QThkbVBkMGQ4VzhtVzEtRmhWb0trMWZENWVwajhETGo5YWNhRVVwYUNOTl9IazJtVVMwU0RRdTRTemtFaDM4eElEWHpENXQ4MTZtcFp2WnpPVjdnNThsV0xiOGJGQ2RBeE1TOXN3Z04xSnlnVVZVNDgyNV96R3FYdjdxZ0tlYmVJZHdvQUw3TWpSRG5JWWdDTkdsRmg4RThLSnBBSGhmQlZqaEdRN0FNc2RyNVlBPT0iLCJ1ZGlkIjoiOGZjYmM3NDQ5MWQ4N2I5MSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=isSiO0V6FOZ8%2bmkj7jp%2b3Ud%2fID0%3d
 #EXTINF:-1 tvg-logo="https://static.epg.best/za/Nickelodeon.za.png" group-title="मनोरंजन",Nickelodeon India
@@ -63,34 +57,9 @@ https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
 #EXTINF:-1 tvg-logo="https://cdn.sonicgang.com/wp-content/uploads/2019/03/logo.png" group-title="मनोरंजन",Nickelodeon Sonic
 https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png" group-title="मनोरंजन",Sony ETV
-http://185.246.210.54:2200/R-EX/HINDI_SONY_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="मनोरंजन",Sony Max
-http://185.246.210.54:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="मनोरंजन",Sony Max 2
-http://185.246.210.54:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="मनोरंजन",Sony SAB
-http://185.246.210.54:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png" group-title="मनोरंजन",Sony Pal
-http://185.246.210.54:2200/R-EX/HINDI_SONY_PAL-in/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://d2r4co1lu5hctj.cloudfront.net/media_content/images/logo-with-tagline1.png" group-title="मनोरंजन",Sony WAH
-http://185.246.210.54:2200/R-EX/HINDI_SONY_WAH_-in/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="मनोरंजन",Sony Yay
-http://185.246.210.54:2200/R-EX/HINDI_SONY_YAY-in/index.m3u8?token=
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="मनोरंजन",Star Bharat
-http://185.246.210.54:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="मनोरंजन",Star Plus
 http://khulnalive.anytv.live:8080/starplus/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/sa/StarWorld.sa.png" group-title="मनोरंजन",Star World
-http://185.246.210.54:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="मनोरंजन",Star Gold
-http://185.246.210.54:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="मनोरंजन",Star Movies
-http://185.246.210.54:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
 
-#EXTINF:-1 tvg-logo="https://www.mygoodtimes.in/wp-content/uploads/2018/07/LOGO-Goodtimes2.png" group-title="मनोरंजन",Good Times (Hindi)
-http://185.246.210.54:2200/R-EX/HINDI_NDTV_GOOD_TIMES-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-181/list/170x120/qindia_1170x658.png" group-title="मनोरंजन",The Q
 https://load.airtelxstream.in/theqyou/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeetv.png" group-title="मनोरंजन",Zee TV (USA)
@@ -104,8 +73,6 @@ http://z5amshls.akamaized.net/world/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://doordarshan.gov.in/sites/default/files/DD-India-logo.png" group-title="International (India)",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://doordarshan.gov.in/sites/default/files/DD-India-logo.png" group-title="International (India)",DD India
-http://185.246.210.54:2200/R-EX/HINDI_DD_NATIONAL_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/r-logo.png" group-title="International (India)",Republic News
 https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="International (India)",India Today
@@ -205,8 +172,6 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/9XO-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="संगीत",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://exchange4media.gumlet.io/news-photo/103831-9Xjalwalogo.jpg" group-title="संगीत",9X Jalwa
-http://185.246.210.54:2200/R-EX/HINDI_9X_JALWA-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/bigganga.png" group-title="संगीत",Big Ganga
 http://z5amshls.akamaized.net/bigganga/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://b4umusic.in/images/logo.png" group-title="संगीत",B4U Music
@@ -223,8 +188,6 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",Artist Aloud
 https://live.hungama.com/linear/artist-aloud/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="संगीत",Mastiii
-http://185.246.210.54:2200/R-EX/HINDI_MASTII-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png" group-title="संगीत",Music India
 http://dx3.gcdn.co/hindi-MUSICINDIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/WowMusic.in.png" group-title="संगीत",Wow Music
@@ -331,8 +294,6 @@ http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/62/dd/32/62dd329e-af60-9ca1-6776-ec54352dbbcd/AppIcon-1x_U007emarketing-85-220-0-9.png/1200x630wa.png" group-title="ਫਿਲਮਾਂ",Prime Canada
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png" group-title="ਫਿਲਮਾਂ",9X Tashan
-http://185.246.210.54:2200/R-EX/HINDI_9X_TASHAN-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="http://primeasia.tv/assets/front/images/logo-new1.png" group-title="ਫਿਲਮਾਂ",Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/punjab_music.png" group-title="ਸੰਗੀਤ",5aab Music
