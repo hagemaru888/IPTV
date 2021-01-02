@@ -63,6 +63,8 @@ http://185.246.210.54:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
 http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-id="COL.BD" tvg-logo="https://static.epg.best/in/ColorsBangla.in.png" group-title="বাংলা",Colors বাংলা
 http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://sunnetwork.in/ChannelLogo_BannerSchedule/56sunbangala.jpg" group-title="বাংলা",Sun Bangla
+http://istreamtv.xyz/cdn/sunnxt/kl/nxtist.php?uid=Prasadelectric_6532140&c=SunBangla
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png" group-title="বাংলা",BTV World
 http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
@@ -130,8 +132,6 @@ https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rtvonline.com/templates/rtv-v1/images/logo.png" group-title="বাংলা",RTV
 http://163.172.29.246:8081/globalbd/rtv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ruposhibangla.in/assets/img/logo.png" group-title="বাংলা",Ruposhi Bangla
-https://load.airtelxstream.in/ruposhibanglatv/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.satv.tv/wp-content/uploads/2017/07/logo1.png" group-title="বাংলা",SATV
 http://163.172.29.246:8081/globalbd/satv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://uttarbangla.com/Images/CompanyLogo.jpg" group-title="বাংলা",Uttar Bangla
@@ -165,8 +165,6 @@ http://news7.mycast.in/encode/news7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeeimage.png" group-title="ଓଡ଼ିଆ",Zee Sarthak
 http://z5amshls.akamaized.net/sarthaktv/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://doordarshan.gov.in/sites/default/files/DD_Kashir.jpg" group-title="تفریح",DD Kashir
-https://load.airtelxstream.in/ddkashir/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="تفریح",PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.a1uk.tv/images/icms_logo.png" group-title="تفریح",A1 TV 
