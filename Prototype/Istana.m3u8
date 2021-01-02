@@ -521,8 +521,6 @@ http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 tvg-id="E10.BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title=""Hindustan(বাংলা)",Enter 10 আনন্দ
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1 tvg-id="ZZB.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="Hindustan(বাংলা)",Zee বাংলা
-http://185.246.210.54:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="ZBC.IN" tvg-logo="https://static.epg.best/in/ZeeBanglaCinema.in.png" group-title="Hindustan(বাংলা)",Zee বাংলা সিনেমা
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="STJ.IN" tvg-logo="https://static.epg.best/in/StarJalsha.in.png" group-title="Hindustan(বাংলা)",Star Jalsha
