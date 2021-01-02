@@ -1,12 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ACV.IN" tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title=Hindustan(മലയാളം)",Asianet
+#EXTINF:-1 tvg-id="ACV.IN" tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title="Hindustan(മലയാളം)",Asianet
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-id="ASP.IN" tvg-logo="https://www.asianet.in/static/images/acv-plus-logo.png" group-title="Hindustan(മലയാളം)",Asianet Plus
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
-#EXTINF:-1 tvg-id="ACV.IN" tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title=Hindustan(മലയാളം)",Asianet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4
-https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
