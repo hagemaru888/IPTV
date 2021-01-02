@@ -47,8 +47,6 @@ http://163.172.29.246:8081/globalbd/ekattor/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title="সিনেমা",Enter 10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/JalshaMovies.in.png" group-title="সিনেমা",Star Jalsha Movies
-http://185.246.210.54:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="SJM.IN" tvg-logo="https://static.epg.best/in/JalshaMovies.in.png" group-title="সিনেমা",Star Jalsha Movies
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="সিনেম",Zee Bangla Cinema
@@ -57,8 +55,6 @@ http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.magicbangla.tv/wp-content/uploads/2020/10/logo.jpg" group-title="সংগীত",Magic Bangla
 http://enaniptv.com/magicbanglatv/1080/index.m3u8
 
-#EXTINF:-1 tvg-id="ZZB.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="বাংলা",Zee বাংলা
-http://185.246.210.54:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="STJ.IN" tvg-logo="https://static.epg.best/in/StarJalsha.in.png" group-title="বাংলা",Star Jalsha
 http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-id="COL.BD" tvg-logo="https://static.epg.best/in/ColorsBangla.in.png" group-title="বাংলা",Colors বাংলা
