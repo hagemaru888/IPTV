@@ -242,16 +242,16 @@ http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?wowzases
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://listaiptvbrasil.com/logo/tvers.png", Tv Brasil
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Português/Brasil",ESPN Brasil
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
-#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Português/Brasil",ESPN Brasil
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnbrasilhd/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPN.br.png" group-title="Português/Brasil",ESPN 1 Brasil
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnhd1/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPN2.br.png" group-title="Português/Brasil",ESPN 2 Brasil
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnmaishd/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNExtra.br.png" group-title="Português/Brasil",ESPN Extra Brasil
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnextrahd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/AandE.br.png" group-title="Português/Brasil",A&E
+https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/AMC.br.png" group-title="Português/Brasil",AMC
+https://geralorigin.eu-central-1.edge.mycdn.live/live/amchd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="Português/Brasil",AXN
+https://geralorigin.eu-central-1.edge.mycdn.live/live/axnhd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="Português/Brasil",Cinemax
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cinemaxhd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/ComedyCentral.br.png" group-title="Português/Brasil",Comedy Central
+https://geralorigin.eu-central-1.edge.mycdn.live/live/comedycentralhd/video.m3u8|Referer=https://canaismax.com
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryChannel.br.png" group-title="Português/Brasil",Discovery Brasil
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/discoveryhd/video.m3u8|Referer=https://canaismax.com
@@ -270,12 +270,35 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/idhd/video.m3u8|Referer=
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png" group-title="Português/Brasil",Discovery Kids
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/discoverykidshd/video.m3u8|Referer=https://canaismax.com
 
+#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Português/Brasil",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
+#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Português/Brasil",ESPN Brasil
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnbrasilhd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPN.br.png" group-title="Português/Brasil",ESPN 1 Brasil
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnhd1/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPN2.br.png" group-title="Português/Brasil",ESPN 2 Brasil
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnmaishd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNExtra.br.png" group-title="Português/Brasil",ESPN Extra Brasil
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnextrahd/video.m3u8|Referer=https://canaismax.com
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="Português/Brasil",Fox
 https://geralorigin.eu-central-1.edge.mycdn.live/live/foxhd/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/FOXPremium1.br.png" group-title="Português/Brasil",Fox Premium Brasil
 https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremiumhd/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/FOXPremium2.br.png" group-title="Português/Brasil",Fox Premium 2 Brasil
 https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2hd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/FoxSports.br.png" group-title="Português/Brasil",Fox Sports 1 Brasil
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportshd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/FoxSports2.br.png" group-title="Português/Brasil",Fox Sports 2 Brasil
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsports2hd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/FX.br.png" group-title="Português/Brasil",FX Brasil
+https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8|Referer=https://canaismax.com
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/History.br.png" group-title="Português/Brasil",History Brasil
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/historyhd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/History2.br.png" group-title="Português/Brasil",H2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/history2hd/video.m3u8|Referer=https://canaismax.com
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/HBO.br.png" group-title="Português/Brasil",HBO Brasil
 https://geralorigin.eu-central-1.edge.mycdn.live/live/hbohd/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/HBO2.br.png" group-title="Português/Brasil",HBO 2 Brasil
@@ -288,6 +311,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/hboplushd/video.m3u8|Ref
 https://geralorigin.eu-central-1.edge.mycdn.live/live/hbosignaturehd/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/UniversalChannel.co.png" group-title="Português/Brasil",Universal Brasil
 https://geralorigin.eu-central-1.edge.mycdn.live/live/universalhd/video.m3u8|Referer=https://canaismax.com
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecinePremium.br.png" group-title="Português/Brasil",Telecine Premium
 https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepremiumhd/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecineAction.br.png" group-title="Português/Brasil",Telecine Action
@@ -300,6 +324,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunhd/video.m3u8|Referer
 https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocahd/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecineCult.br.png" group-title="Português/Brasil",Telecine Cult
 https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineculthd/video.m3u8|Referer=https://canaismax.com
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Paramount.br.png" group-title="Português/Brasil",Paramount Network Brasil
 https://geralorigin.eu-central-1.edge.mycdn.live/live/paramountchannelhd/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Premiere2.br.png" group-title="Português/Brasil",Premiere 1
@@ -316,19 +341,21 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere5hd/video.m3u8|R
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere6hd/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Sony.br.png" group-title="Português/Brasil",Sony Brasil
 https://geralorigin.eu-central-1.edge.mycdn.live/live/sonyhd/video.m3u8|Referer=https://canaismax.com
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Sportv.br.png" group-title="Português/Brasil",Sportv
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvhd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Sportv2.br.png" group-title="Português/Brasil",Sportv 2
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv2hd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Sportv3.br.png" group-title="Português/Brasil",Sportv 3
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv3hd/video.m3u8|Referer=https://canaismax.com
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/TNT.br.png" group-title="Português/Brasil",TNT
 https://geralorigin.eu-central-1.edge.mycdn.live/live/tnthd/video.m3u8|Referer=https://canaismax.com
+
+
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Português/Brasil",Warner Tv Brasil
 https://geralorigin.eu-central-1.edge.mycdn.live/live/warnerbrosshd/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/History2.br.png" group-title="Português/Brasil",h2
-https://geralorigin.eu-central-1.edge.mycdn.live/live/history2hd/video.m3u8|Referer=https://canaismax.com
 
-https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8|Referer=https://canaismax.com
-https://geralorigin.eu-central-1.edge.mycdn.live/live/amchd/video.m3u8|Referer=https://canaismax.com
-https://geralorigin.eu-central-1.edge.mycdn.live/live/axnhd/video.m3u8|Referer=https://canaismax.com
-https://geralorigin.eu-central-1.edge.mycdn.live/live/cinemaxhd/video.m3u8|Referer=https://canaismax.com
-https://geralorigin.eu-central-1.edge.mycdn.live/live/comedycentralhd/video.m3u8|Referer=https://canaismax.com
-https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/live/maxhd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/live/maxprimehd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/live/maxuphd/video.m3u8|Referer=https://canaismax.com
@@ -339,15 +366,9 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/spacehd/video.m3u8|Referer
 https://geralorigin.eu-central-1.edge.mycdn.live/live/studiouniversalhd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/live/syfyhd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/live/animalplanethd/video.m3u8|Referer=https://canaismax.com
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/historyhd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/natgeowildhd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/nathd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/combatehd/video.m3u8|Referer=https://canaismax.com
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportshd/video.m3u8|Referer=https://canaismax.com
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsports2hd/video.m3u8|Referer=https://canaismax.com
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvhd/video.m3u8|Referer=https://canaismax.com
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv2hd/video.m3u8|Referer=https://canaismax.com
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv3hd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/boomeranghd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/cartoonnetworkhd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/disneychannelhd/video.m3u8|Referer=https://canaismax.com
