@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="GLO.News" tvg-logo="https://static.epg.best/br/GloboNews.br.png" group-title="Português/Brasil",Globo News
-https://geralorigin.eu-central-1.edge.mycdn.live/live/globonewshd/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Português/Brasil",Globo Nordeste
-https://geralorigin.eu-central-1.edge.mycdn.live/live/globonordeste/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Português/Brasil",Globo SP
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globosp/video.m3u8Referer=https://canaismax.com
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Português/Brasil",Globo Rj
