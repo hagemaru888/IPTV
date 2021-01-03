@@ -183,14 +183,10 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/bandsportshd/video.m3u8|
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globonewshd/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Português/Brasil",Globo Nordeste
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globonordeste/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Português/Brasil",Globo SP
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/globosp/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Português/Brasil",Globo Rj
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/globorjhd/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Português/Brasil",Globo Rj
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:-1 tvg-ID="GOO.BR" tvg-logo="https://static.epg.best/br/Gloob.br.png" group-title="Português/Brasil",Gloob
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/gloobhd/video.m3u8|Referer=https://canaismax.com
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="Português/Brasil",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
@@ -226,7 +222,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/recordhd/video.m3u8|Refere
 http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8?wowzasessionid=inspiration
 
 #EXTINF:-1 tvg-ID="SBT.BR" tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="Português/Brasil",SBT
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sbthd/video.m3u8|Referer=https://canaismax.com
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sbtsd/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-ID="" tvg-logo="https://www.ma10.com.br/wp-content/uploads/2020/09/logo-ma10-1.png" group-title="Português/Brasil",SBT - TV Difusora
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://tvjornal.ne10.uol.com.br/img/tv-jornal.png" group-title="Português/Brasil",SBT - TV Jornal
