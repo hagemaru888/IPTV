@@ -1622,6 +1622,12 @@ http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
 http://185.19.191.12:8090/SVT1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/se/SVT2.se.png" group-title="Sverige",SVT2
 http://185.19.191.12:8090/SVT2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/se/TV4.se.png" group-title="Sverige",TV4
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/se/TV4.se.png" group-title="Sverige",TV 4 Nyheterna
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/se/TV4.se.png" group-title="Sverige",TV 4 Svensk Politik
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/846763000275107840/0enf3YUj_400x400.jpg" group-title="Sverige",DI TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alkompis.se/iptv/wp-content/uploads/2019/04/iptv-w-1.png" group-title="Sverige",Al Kompis
