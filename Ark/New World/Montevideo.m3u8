@@ -190,6 +190,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Age
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-images.rtp.pt/common/img/estudoemcasa-partilha.jpg" group-title="Português/Brasil",Estudo em Casa
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-images.rtp.pt/play/images/direitos_zigzag_tv.jpg" group-title="Português/Brasil",ZigZag 🇵🇹
+https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/TviReality.pt.png" group-title="Português/Brasil",TVI Reality
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
