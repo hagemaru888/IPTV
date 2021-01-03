@@ -1,23 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Português/Brasil",ESPN Brasil
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnbrasilhd/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPN.br.png" group-title="Português/Brasil",ESPN 1 Brasil
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnhd1/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPN2.br.png" group-title="Português/Brasil",ESPN 2 Brasil
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnmaishd/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNExtra.br.png" group-title="Português/Brasil",ESPN Extra Brasil
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnextrahd/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecineAction.br.png" group-title="Português/Brasil",Telecine Action
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecineactionhd/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecineTouch.br.png" group-title="Português/Brasil",Telecine Touch
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinetouchhd/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecineFun.br.png" group-title="Português/Brasil",Telecine Fun
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunhd/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecinePipoca.br.png" group-title="Português/Brasil",Telecine Pipoca
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocahd/video.m3u8|Referer=https://canaismax.com
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecineCult.br.png" group-title="Português/Brasil",Telecine Cult
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineculthd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-ID="SBT.BR" tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="Português/Brasil",SBT
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sbthd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-ID="GLO.News" tvg-logo="https://static.epg.best/br/GloboNews.br.png" group-title="Português/Brasil",Globo News
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globonewshd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Português/Brasil",Globo Nordeste
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globonordeste/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Português/Brasil",Globo SP
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/globosp/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Português/Brasil",Globo Rj
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/globorjhd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Português/Brasil",Globo Rj
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/br/Gloob.br.png" group-title="Português/Brasil",Gloob
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/gloobhd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/Band.br.png" group-title="Português/Brasil",Band
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/bandcampinashd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/BandNews.br.png" group-title="Português/Brasil",Band News
+https://geralorigin.eu-central-1.edge.mycdn.live/live/bandnewshd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/BandSports.br.png" group-title="Português/Brasil",Band Sports
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/bandsportshd/video.m3u8|Referer=https://canaismax.com
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
