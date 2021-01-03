@@ -741,7 +741,7 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 http://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 #EXTINF:-1 tvg-ID="HBW.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="美洲精选",HBO USA(West)
 http://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="http://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="美洲精选",ICI
+#EXTINF:-1 tvg-id="ICI.INT"  tvg-logo="http://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="美洲精选",ICI
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="美洲精选",ICI Tele Montreal
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
@@ -763,8 +763,6 @@ http://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
 https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
 #EXTINF:-1 tvg-ID="STE.US" tvg-logo="https://static.epg.best/us/StarzEncore.us.png" group-title="美洲精选",STARZ Encore
 https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
-#EXTINF:-1 tvg-id="KLA.US" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/be/KTLA5.png" group-title="美洲精选",KTLA 5
-https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 
 #EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="东南亚精选",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
