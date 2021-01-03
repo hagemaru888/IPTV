@@ -469,39 +469,53 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="Español",LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="Español",LA Sexta
-https://livestartover.atresmedia.com/lasexta/master.m3u8
+http://cdn2.interlibre.net/hls/151/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Español",Antena 3
-https://livestartover.atresmedia.com/antena3/master.m3u8
+http://cdn2.interlibre.net/hls/149/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Atreseries.es.png" group-title="Español",Atreseries
-https://a3m-a3s-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06179f00f76e46bf918b09c17e47079a1efa09954
+http://cdn2.interlibre.net/hls/101/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="Español",Boing
-https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
+http://cdn2.interlibre.net/hls/193/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="Español",Be Mad
-https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
+http://cdn2.interlibre.net/hls/102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/ClanTVE.es.png" group-title="Español",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=188.208.141.21
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="Español",Cosmo
+http://91.126.141.201:1935/live/cosmoHD/.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="Español",Cuatro
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="Español",divinity
-https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
+http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/DKISS.es.png" group-title="Español",DKiss
+http://91.126.141.201:1935/live/kiss/.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/DKISS.es.png" group-title="Español",DMax
+http://91.126.141.12:1935/live/discoverymax/.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="Español",Energy
-https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
+http://cdn2.interlibre.net/hls/192/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/FactoriaFiccion.es.png" group-title="Español",FDF
-https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/cimg/1001/2019/10/01/mtmad-logo_7fd4.gif" group-title="Español",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Nova.es.png" group-title="Español",Nova
+http://cdn2.interlibre.net/hls/154/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="Español",Neox
-https://livestartover.atresmedia.com/geoneox/master.m3u8|X-Forwarded-For=188.208.141.21
+http://cdn2.interlibre.net/hls/153/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Mega.es.png" group-title="Español",Mega
 https://livestartover.atresmedia.com/geomega/master.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="Español",Telecinco
-https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
+http://cdn2.interlibre.net/hls/190/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/13TV.es.png" group-title="Español",Trece
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+http://cdn2.interlibre.net/hls/170/index.m3u8
+#EXTINF:-1 tvg-logo="https://tentv.es/images/logo-white.png" group-title="Español",Ten
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/pequeradio-tv.png" group-title="Español",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="Español" tvg-name="Nova",Nova
 https://livestartover.atresmedia.com/geonova/master.m3u8|X-Forwarded-For=188.208.141.21
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/13TV.es.png" group-title="Español",Eurosports 1 Espana
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/13TV.es.png" group-title="Español",Eurosports 2 spana
+http://91.126.141.201:1935/live/eurosport2hdnntv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png" group-title="Español",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
@@ -702,7 +716,6 @@ http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
 https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_1280x720_2200k.m3u8
 #EXTINF:-1 tvg-logo="https://nacionfm.com/wp-content/uploads/logo2-e1535626270753.png" group-title="Argentina",TVN Canal 27
 https://5b3050bb1b2d8.streamlock.net/tvmlive/tvmlive/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-ID="AMR.AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina",América
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -995,14 +1008,18 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.scjn.gob.mx/sites/default/files/comunicacion_digital/2019-06/Justicia-TV2.gif" group-title="México",Justicia TV 
 https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios
-https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios CDMX
-https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios Bajio
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios Monterrey
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios Laguna
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://tv.unam.mx/wp-content/uploads/2017/05/L-HOME-dark-300x65.png" group-title="México",TV Unam
 https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
 
