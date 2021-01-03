@@ -1,11 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5 2
-http://live.impresa.pt/live/sic/sic.m3u8|X-Forwarded-For=200.25.22.136
-
-#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5 3
-http://live.impresa.pt/live/sic/sic.m3u8|X-Forwarded-For=200.25.22.136&User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8|X-Forwarded-For=194.41.112.22&Referer=https://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8|X-Forwarded-For=194.41.112.22&Referer=https://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8|X-Forwarded-For=194.41.112.22&Referer=https://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8|X-Forwarded-For=194.41.112.22&Referer=https://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?|X-Forwarded-For=194.41.112.22&Referer=https://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8|X-Forwarded-For=194.41.112.22&Referer=https://www.multimedios.com
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
