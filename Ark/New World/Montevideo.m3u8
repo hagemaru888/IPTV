@@ -349,8 +349,10 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv2hd/video.m3u8|Ref
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Sportv3.br.png" group-title="Português/Brasil",Sportv 3
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv3hd/video.m3u8|Referer=https://canaismax.com
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/TNT.br.png" group-title="Português/Brasil",TNT
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/TNT.br.png" group-title="Português/Brasil",TNT Brasil
 https://geralorigin.eu-central-1.edge.mycdn.live/live/tnthd/video.m3u8|Referer=https://canaismax.com
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/TNTSeries.br.png" group-title="Português/Brasil",TNT Series Brasil
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tntserieshd/video.m3u8|Referer=https://canaismax.com
 
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Português/Brasil",Warner Tv Brasil
@@ -361,7 +363,6 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/maxprimehd/video.m3u8|Refe
 https://geralorigin.eu-central-1.edge.mycdn.live/live/maxuphd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/live/megapixhd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/live/tcmhd/video.m3u8|Referer=https://canaismax.com
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tntserieshd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/live/spacehd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/live/studiouniversalhd/video.m3u8|Referer=https://canaismax.com
 https://geralorigin.eu-central-1.edge.mycdn.live/live/syfyhd/video.m3u8|Referer=https://canaismax.com
