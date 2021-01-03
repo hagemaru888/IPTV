@@ -2,9 +2,9 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="Pan Arabic",Al Araby 1
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.alhurra.com/themes/custom/voa/images/sites_logos/logo_Al_Hurra.png" group-title="Pan Arabic",Al Hurra
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.alhurra.com/themes/custom/voa/images/sites_logos/logo_Al_Hurra.png" group-title="Pan Arabic",Alhurra
 http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.alhiwar.tv/all/images/logo.png" group-title="Pan Arabic",Al Hiwar 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.alhiwar.tv/all/images/logo.png" group-title="Pan Arabic",Alhiwar 
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/arabic.png" group-title="Pan Arabic",BBC عربى
 http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d1604032.m3u8
@@ -281,9 +281,9 @@ http://digitalxpress.gcdn.co/live1/artaflam2/index.m3u8
 http://digitalxpress.gcdn.co/live1/osnartcinema/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/ARTCinema.sa.png" group-title="السعودية",ART Movies America
 https://p-mysat-live.ercdn.net/artmovies/artmovies_576p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.artonline.tv/UploadImages/hikayat-1-blue.png" group-title="السعودية",ART Hekayat 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.artonline.tv/UploadImages/hikayat-1-blue.png" group-title="السعودية",ARThekayat 1
 https://p-mysat-live.ercdn.net/arthekayat/arthekayat_576p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.artonline.tv/UploadImages/hikayat-2-blue.png" group-title="السعودية",ART Hekayat 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.artonline.tv/UploadImages/hikayat-2-blue.png" group-title="السعودية",ARThekayat 2
 https://p-mysat-live.ercdn.net/arthekayat2/arthekayat2_576p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/ARTCinema.sa.png" group-title="السعودية",ART America
 https://p-mysat-live.ercdn.net/artamerica/artamerica_576p.m3u8
@@ -323,7 +323,7 @@ http://digitalxpress.gcdn.co/live1/Rotana_Clip/index.m3u8
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15323468166894.png" group-title="السعودية",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15819734874770.jpg" group-title="السعودية",Al Hokair Group TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15819734874770.jpg" group-title="السعودية",Alhokair Group TV
 http://82.212.74.3:8000/live/hls/7513.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png" group-title="السعودية",Al Resalah
 https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_720p/chunks.m3u8
@@ -358,7 +358,7 @@ http://82.137.248.16:1935/Snews/stream10112020/playlist.m3u8
 http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="سوريا",Lana HD TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="سوريا",LanahD TV
 https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" group-title="سوريا",Lana Plus TV
 https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
@@ -505,7 +505,7 @@ http://192.99.102.14:8080/hls/4utv.m3u8
 https://nl.live21.ir/hls2/AMG.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://af.heytv.org/wp-content/uploads/2019/04/Alwilayah-TV-Hausa-webtvonlive-com.jpg" group-title="العراق",Al Wilayah
 http://nl.live21.ir:8080/hls2/alwilayah.tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/dHYuYWx3aWxheWFoLmhhdXNhX2ljb25fMTU2NjMwMjk5NV8wMDY/icon.png?w=170&fakeurl=1" group-title="العراق",,Al Wilayah Hausa
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/dHYuYWx3aWxheWFoLmhhdXNhX2ljb25fMTU2NjMwMjk5NV8wMDY/icon.png?w=170&fakeurl=1" group-title="العراق",,Al Wilayahhausa
 http://nl.live21.ir:8080/hls2/alwilayah.tv.hausa_high.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="العراق",Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
@@ -531,7 +531,7 @@ https://soltaan.com/iptv/c2.m3u8
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://esraeurope.org/wp-content/uploads/2017/12/logo-mark.png" group-title="العراق",Esra
 https://ir2.live21.ir/hls2/esratv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://channels.roku.com/images/1f1d73fcce5245c48a21dfcfbebea2ef-hd.jpg" group-title="العراق",Ganje Hozoor
+#EXTINF:-1 tvg-id="" tvg-logo="http://channels.roku.com/images/1f1d73fcce5245c48a21dfcfbebea2ef-hd.jpg" group-title="العراق",Ganjehozoor
 https://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/24b.png" group-title="العراق",GEM 24B
@@ -563,15 +563,15 @@ https://d2e40kvaojifd6.cloudfront.net/stream/modern_enonomy/playlist_960x540_200
 https://livestream.5centscdn.com/cls092118/8f8400b79584fa2a1315aa5e7612d4f3.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="العراق",Hodhod
 http://51.158.167.169/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="العراق",Hodhod HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="العراق",HodhodhD
 http://nl.live21.ir:8080/hls2/hodhodfarsi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/04/Iran-International-Channel.png" group-title="العراق",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2001.png" group-title="العراق",Imam Hussein TV 1 (Farsi)
+#EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2001.png" group-title="العراق",Imamhussein TV 1 (Farsi)
 https://fa.imamhusseintv.com/live/ih1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2002.png" group-title="العراق",Imam Hussein TV 2 (Arabic)
+#EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2002.png" group-title="العراق",Imamhussein TV 2 (Arabic)
 https://ar.imamhusseintv.com/live/ih2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2003.png" group-title="العراق",Imam Hussein TV 3 (English)
+#EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2003.png" group-title="العراق",Imamhussein TV 3 (English)
 https://en.imamhusseintv.com/live/ih3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kalemeh.tv/wp-content/uploads/2020/02/logo.jpg" group-title="العراق",Kalemeh TV
 https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
@@ -604,7 +604,7 @@ http://iptv.tapesh.tv/tapesh/playlist.m3u8
 http://51.15.229.209/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana Cinema
 http://51.15.193.156/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana+ HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana+hD
 http://51.158.106.105/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana Family
 http://51.15.229.209/hls/stream.m3u8
@@ -671,7 +671,7 @@ http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2019/07/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="العراق",Iraqiya Sports
 https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="العراق",Al Hurra Iraq
+#EXTINF:-1 tvg-id="" tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="العراق",Alhurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://alsharqiyatv.info/news.jpg" group-title="العراق",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
@@ -741,7 +741,7 @@ http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist.m3u8
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://medmuzik.tv/wp-content/uploads/2019/08/cropped-mm-logo-alpha-1.png" group-title="العراق",Med Muzîk
 http://137.74.205.201/live3/mm-3mbps.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.medyahaber.info/wp-content/uploads/2019/09/logo1.png" group-title="العراق",Medya Haber
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.medyahaber.info/wp-content/uploads/2019/09/logo1.png" group-title="العراق",Medyahaber
 http://137.74.205.201/live1/mh-3mbps.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Rudaw.jpg" group-title="العراق",Rudaw Kurdi
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
@@ -791,7 +791,7 @@ https://tv-trtavaz.live.trt.com.tr/master.m3u8
 https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="TRC.TR" tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="Türkiye",TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRTHaber.tr.png" group-title="Türkiye",TRT Haber
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRTHaber.tr.png" group-title="Türkiye",TRThaber
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRTMuzik.tr.png" group-title="Türkiye",TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
@@ -818,7 +818,7 @@ http://185.129.1.242/atvhd/mpegts
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iaspr.tmgrup.com.tr/2019/11/11/1573422564129.png" group-title="Türkiye",A Spor
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png" group-title="Türkiye",A Haber
+#EXTINF:-1 tvg-id="" tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png" group-title="Türkiye",Ahaber
 https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_sd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://isbh.tmgrup.com.tr/sbh/site/v3/apara/i/logo-apara-new.png" group-title="Türkiye",A Para
 https://mn-nl.mncdn.com/blutv_apara/smil:apara_sd.smil/chunklist_b3128000.m3u8
@@ -857,7 +857,7 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/afyonturktv-hdtvler-pseb.png" group-title="Türkiye",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-bloomberg-4532.jpg" group-title="Türkiye",Bloomberg HT
+#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-bloomberg-4532.jpg" group-title="Türkiye",BloomberghT
 http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/480x480/5df3cd52866ac30eac569581" group-title="Türkiye",BLUTV Aksiyon
 https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
@@ -929,7 +929,7 @@ https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/757332945694777344/KmJxdn4g_400x400.jpg" group-title="Türkiye",Tivi Turk
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://icdn.tgrthaber.com.tr/Templates/v1/images/logo.png" group-title="Türkiye",TGRT Haber
+#EXTINF:-1 tvg-id="" tvg-logo="https://icdn.tgrthaber.com.tr/Templates/v1/images/logo.png" group-title="Türkiye",TGRThaber
 https://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/tv4tv-hdtvler-167e.png" group-title="Türkiye",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
@@ -1070,7 +1070,7 @@ https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
 http://connectiktv.ddns.net:8080/afrobit/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/06/c4c115d6-e7c7-4d82-af85-b6b95040b93f-300x169.jpg" group-title="Cameroun",Beauty Africa
 http://connectiktv.ddns.me:8080/beautyafrica/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/09/canahausa.jpg" group-title="Cameroun",Canal Hausa
+#EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/09/canahausa.jpg" group-title="Cameroun",Canalhausa
 http://connectiktv.ddns.net:8080/canalhausa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.camfaith.org/images/annuaire_medias/1343398238.jpg" group-title="Cameroun",Canal de Vie
 https://edge2.vedge.infomaniak.com/livecast/ik:canaldevie/chunklist.m3u8
@@ -1084,11 +1084,11 @@ http://connectiktv.ddns.net:8080/emergence/index.m3u8
 http://connectiktv.ddns.net:8080/exel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image/Y29tLmhvcml6b24uYWZyaWNhdHZfaWNvbl8xNTM3NDI1NTU5XzA3Nw/icon.png?w=170&fakeurl=1" group-title="Cameroun",Horizon TV
 http://41.223.30.250:5000/horizonafrica/horizonafrica/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/05/hip-hop-tv-300x300.png" group-title="Cameroun",Hip Hop TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/05/hip-hop-tv-300x300.png" group-title="Cameroun",Hiphop TV
 http://41.223.30.250:8080/hiphoptv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/12/LOGO-HTV-Cadre-Micro-Htv-Carr%C3%A9-PNG-300x226.png" group-title="Cameroun",H-TV
 http://connectiktv.ddns.net:8080/htv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/04/TDTPtTAU_400x400.jpg" group-title="Cameroun",Golden House TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/04/TDTPtTAU_400x400.jpg" group-title="Cameroun",Goldenhouse TV
 http://connectiktv.ddns.net:8080/goldentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/11/mango-tv.jpg" group-title="Cameroun",Mango TV
 http://connectiktv.ddns.net:8080/mangotv/index.m3u8
@@ -1116,9 +1116,9 @@ http://connectiktv.ddns.net:8080/vibe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.directv.com/directv_logo.jpg" group-title="Kikongo",CDirect
 http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" group-title="مَصر",Al Hayat
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" group-title="مَصر",Alhayat
 https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://alhorreya.org/images/alhorreya-logo_new.png" group-title="مَصر",Al Horreya
+#EXTINF:-1 tvg-id="" tvg-logo="https://alhorreya.org/images/alhorreya-logo_new.png" group-title="مَصر",Alhorreya
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvtolive.com/wp-content/uploads/Al-Fath-TV.tvtolive.com_.jpg" group-title="مَصر",Al Fath
 https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
@@ -1250,7 +1250,7 @@ https://master.starmena-cloud.com/hls/libyas.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tanasuh.tv/wp-content/uploads/2018/01/Website-LOGO-01.png" group-title="ليبيا‎",Al Tanasuh Libya
 http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.elahmad.com/tv/images/libyaalhadath.jpg" group-title="ليبيا‎",Al Hadath
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.elahmad.com/tv/images/libyaalhadath.jpg" group-title="ليبيا‎",Alhadath
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.libyaelwatan.net/wp-content/uploads/2019/11/logo-site.png" group-title="ليبيا‎",El Watan 
 http://streaming.i-sat.tv:8081/live/libyawatan_480p/playlist.m3u8
@@ -1312,7 +1312,7 @@ https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hs
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Rwanda",Rwanda TV
 http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Rwanda",Rwanda HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Rwanda",RwandahD
 https://1600706787.rsc.cdn77.org//1600706787/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rba.co.rw/IMG/logokc2.jpg" group-title="Rwanda",KC2
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
