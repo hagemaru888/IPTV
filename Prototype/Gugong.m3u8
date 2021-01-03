@@ -568,6 +568,11 @@ https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="体育",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
 
+#EXTINF:-1 tvg-id="111.PL" tvg-logo="https://static.epg.best/pl/ElevenSport1.pl.png" group-title="体育",Eleven Sports Polandia
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-id="112.PL" tvg-logo="https://static.epg.best/pl/ElevenSport1.pl.png" group-title="体育",Eleven Sports 2 Polandia
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
 #EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",Fox Sports 1 Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
