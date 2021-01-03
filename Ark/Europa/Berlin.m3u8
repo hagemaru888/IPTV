@@ -835,6 +835,9 @@ https://derste247livede.akamaized.net/hls/live/658317/daserste_de/profile1/1.m3u
 #EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",One
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
 
+#EXTINF:-1 tvg-id="RTL.DE" tvg-logo="https://static.epg.best/de/RTL.de.png" group-title="Deutschland",RTL
+http://84.112.18.204:8001/1:0:1:EF10:421:1:C00000:0:0:0:
+
 #EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",ZDF Info
 http://51.52.156.23:8888/http/010
 #EXTINF:-1 tvg-id="ADR.DE" tvg-logo="https://static.epg.best/de/ARDalpha.de.png" group-title="Deutschland",ADR Alpha
