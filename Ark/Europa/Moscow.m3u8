@@ -121,7 +121,7 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net:80/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/va
 http://rt-ural-nbk-htlive.cdn.ngenix.net:80/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
 #EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Россия",Импульс
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
-#EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Россия",Муравленко 24 HD
+#EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Россия",Муравленко 24hD
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u
 
 
@@ -435,7 +435,7 @@ http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 https://gearlabs.ru/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatExplore.ru.png" group-title="Россия",Viasat Explore
 http://188.93.95.34:80/viasatexp/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatHistory.ru.png" group-title="Россия",Viasat History
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatHistory.ru.png" group-title="Россия",Viasathistory
 https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatNature.ru.png" group-title="Россия",Viasat Nature
 http://188.93.95.34:80/viasatnat/index.m3u8
@@ -445,7 +445,7 @@ http://188.93.95.34:80/viasatsport/index.m3u8
 http://188.35.9.14:2013
 #EXTINF:-1 tvg-logo="http://www.viasatworld.com/media/1186/vipmegahit.png" group-title="Россия",VIP Megahit
 http://188.35.9.14:2016
-#EXTINF:-1 tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/vip_logo_rgb_-_premiere_colour_0.png" group-title="Россия",VIP Hit
+#EXTINF:-1 tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/vip_logo_rgb_-_premiere_colour_0.png" group-title="Россия",VIPhit
 http://188.93.95.34:80/healthtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/vip_logo_rgb_-_premiere_colour_0.png" group-title="Россия",VIP Family
 http://188.93.95.34:80/tv5/index.m3u8
@@ -667,7 +667,7 @@ https://hls.t.stream-dns.net/hls/tvpirveli_1/index.m3u8
 http://tv.cdn.xsg.ge/qvemoqartli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ge/TV25.ge.png" group-title="საქართველო",TV 25
 http://tv.cdn.xsg.ge/tv25/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15850/d4c3b820-6cd4-11ea-834b-016f834b7e34_100x100.png" group-title="საქართველო",Universe HD
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15850/d4c3b820-6cd4-11ea-834b-016f834b7e34_100x100.png" group-title="საქართველო",UniversehD
 http://tv.cdn.xsg.ge/universehd/playlist.m3u8
 
 
@@ -710,7 +710,7 @@ https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/chunklist_b2724000
 https://waok9ia0vpf.a.trbcdn.net/livemaster/dybu83yagb_Asylarna_test/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/AmediaPremium.ru.png" group-title="Казахстан",Amedia Premium
 http://188.93.95.34:80/amediapremium/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/AmediaHit.ru.png" group-title="Казахстан",Amedia Hit
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/AmediaHit.ru.png" group-title="Казахстан",Amediahit
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="Казахстан",СТС International
 http://89.106.234.4:80/STS_34_35.m3u8
@@ -758,7 +758,7 @@ http://onrez.kaztrk.kz/regional/semeytv/index.m3u8
 https://edge04.daitsuna.net/muzzone/muzzone/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tdk42.kz/wp-content/themes/tdk42/images/logo_20.png" group-title="Казахстан",ТДК 42
 http://89.106.234.4/TDK-42_38_39.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",hdl HD
+#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",hdlhD
 http://89.106.234.4:80/hdl_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",О!
 http://89.106.234.4:80/o_34_35.m3u8
@@ -893,9 +893,9 @@ http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/ind
 http://tv.tv-project.com:1935/live/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/M1_%28Ukraine%29.jpg" group-title="Україна",М1 Classic
 http://flavors-proxy.m1.tv/flavors/1/1080/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/M1_%28Ukraine%29.jpg" group-title="Україна",M1 Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/M1_%28Ukraine%29.jpg" group-title="Україна",M1hits
 http://flavors-proxy.m1.tv/flavors/2/1080/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/M1_%28Ukraine%29.jpg" group-title="Україна",M1 Hip-Hop
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/M1_%28Ukraine%29.jpg" group-title="Україна",M1hip-Hop
 http://flavors-proxy.m1.tv/flavors/3/1080/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/M1_%28Ukraine%29.jpg" group-title="Україна",M1 Test Gird
 https://flavors-proxy.m1.tv//flavors/0/1080/stream.m3u8
@@ -955,7 +955,7 @@ http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/playlist.m3u8
 http://arhat.tv/public/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://bambarbia.tv/wp-content/uploads/2018/01/bbb-logo-1.png" group-title="Україна",Bambarbia
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://balta.tv/wp-content/uploads/2016/02/Logo-BIK3.png" group-title="Україна",Балта ТВ HD
+#EXTINF:-1 tvg-logo="http://balta.tv/wp-content/uploads/2016/02/Logo-BIK3.png" group-title="Україна",Балта ТВhD
 http://194.50.51.34/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.vtvplus.com.ua/templates/ua/images/logo.png" group-title="Україна",ВТВ-Плюс
 http://iptv.rubintele.com:8552/play/a007
