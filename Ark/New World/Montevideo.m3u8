@@ -221,6 +221,72 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/recordhd/video.m3u8|Refere
 #EXTINF:-1 tvg-ID="REC.BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" group-title="Português/Brasil",Record TV
 http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8?wowzasessionid=inspiration
 
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV HD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Rio de Janeiro HD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Belém
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Belém HD
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Brasília" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Brasília" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Brasília HD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-id="RecordTVGoias.br" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
+#EXTINF:-1 tvg-id="RecordTVGoias.br" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Goiás HD
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Itapoan
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Itapoan HD 
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Manaus HD
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Minas" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Minas
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Minas" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Minas HD
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Porto Alegre" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Rio Grande do Sul
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Porto Alegre" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Rio Grande do Sul HD
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/m1XDJTj.png" group-title="TV Aberta/Variedades",TV Conquista - RecordTV (MT)
+http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/V4DhYx7.png" group-title="TV Aberta/Variedades",TV Tropical - RecordTV (RN)
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/Z85PJOg.png" group-title="TV Aberta/Variedades",TV Paranaíba - RecordTV (MG) [programação local]
+https://live.paranaibaplay.com.br/live/tv.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/cZsTugF.png" group-title="TV Aberta/Variedades",SIC TV - RecordTV (RO) [programação local]
+https://5953e7f9ae845.streamlock.net/2502/2502/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="SBT.BR" tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="Português/Brasil",SBT
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sbtsd/video.m3u8|Referer=https://canaismax.com
 #EXTINF:-1 tvg-ID="" tvg-logo="https://www.ma10.com.br/wp-content/uploads/2020/09/logo-ma10-1.png" group-title="Português/Brasil",SBT - TV Difusora
